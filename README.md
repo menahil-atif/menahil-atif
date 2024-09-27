@@ -13,7 +13,7 @@ Hi, I’m Menahil 😄
     * Description: A sustainable shopping experience proposal website, produce through Agile methodologies within a team.
     * Technologies used: HTML, CSS, JavaScript, Bootstrap, Trello, Agile Framework, Git
     * Contributions: Led team activities, managed delegations of task, organised routinely progress checks, and overlooked product development. 
-* **Calculator App:** [Link to repository]
+* **Calculator App:** (https://github.com/menahil-atif/weather-app)
     * Description: A full-featured e-commerce platform built with React and Node.js
     * Technologies used: React, Node.js, Express, MongoDB
     * Contributions: Developed the frontend, implemented payment integration, and optimized performance.
