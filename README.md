@@ -9,15 +9,19 @@ Hi, I’m Menahil 😄
 * **Tools:** Git, VS Code, Trello, Microsoft Office
 
 ### Projects
-* **E-commerce App:** [Link to repository]
+* **E-commerce App:** (https://github.com/menahil-atif/pricewrap)
     * Description: A sustainable shopping experience proposal website, produce through Agile methodologies within a team.
-    * Technologies used: HTML, CSS, JavaScript, Bootstrap, Trello, Agile Framework, Git
+    * Technologies used: HTML, CSS, JavaScript, Bootstrap
     * Contributions: Led team activities, managed delegations of task, organised routinely progress checks, and overlooked product development. 
-* **Calculator App:** [Link to repository]
-    * Description: A full-featured e-commerce platform built with React and Node.js
-    * Technologies used: React, Node.js, Express, MongoDB
+* **Payment Gateway App:** (https://github.com/menahil-atif/paymentGateway)
+    * Description: A simple payment gateway, coupled with responsive design festures.
+    * Technologies used: HTML, CSS, JavaScript, Node.js
     * Contributions: Developed the frontend, implemented payment integration, and optimized performance.
-* **Weather App:** [Link to repository]
+* **Shopping Cart API:** (https://github.com/menahil-atif/calculatorApp)
+    * Description: A responsive API specification, that interacts with the user, and implements validation.
+    * Technologies used: JavaScript, Node.js, Express, Joi
+    * Contributions: Developed the frontend, implemented payment integration, and optimized performance.
+* **Weather App:** (https://github.com/menahil-atif/weatherApp)
     * Description: A responsive weather app front, that seamlessly displays accurate data, including temperature, humidity and wind speed levels. 
     * Technologies used: HTML, CSS, API
     * Contributions: Designed the layout, and autonomously implemented an API to fetch and output accurate data analytics. 
