@@ -17,7 +17,7 @@ Hi, I’m Menahil 😄
     * Description: A simple payment gateway, coupled with responsive design festures.
     * Technologies used: HTML, CSS, JavaScript, Node.js
     * Contributions: Developed the frontend, implemented payment integration, and optimized performance.
-* **Shopping Cart API:** (https://github.com/menahil-atif/calculatorApp)
+* **Shopping Cart API:** (https://github.com/menahil-atif/shoppingCartAPI)
     * Description: A responsive API specification, that interacts with the user, and implements validation.
     * Technologies used: JavaScript, Node.js, Express, Joi
     * Contributions: Developed the frontend, implemented payment integration, and optimized performance.
